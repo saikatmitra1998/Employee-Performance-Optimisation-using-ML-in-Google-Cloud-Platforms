@@ -38,7 +38,6 @@ The third task involves developing a machine learning model to predict the best 
 ## System Architecture
 The project utilizes Google Cloud services including Cloud Storage, BigQuery, and App Engine to manage data, perform analysis, and host applications.
 
-![System Architecture](path_to_architecture_diagram.png)
 
 ## Conclusion
 The project successfully achieved its objectives by leveraging data analysis and machine learning to optimize employee assignments and improve service delivery quality at MWW. The developed tools and insights will support continuous improvement and help MWW adapt to evolving customer needs.
